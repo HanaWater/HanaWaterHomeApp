@@ -10,9 +10,9 @@ By using our app, you agree to the terms outlined in this Privacy Policy. If you
 ### 1.1 Personal Information
 We collect the following personal information to provide our services:
 
-**Phone Number:** Required for login/signup and account management.
+* **Phone Number:** Required for login/signup and account management.
 
-**Address:** Used exclusively for water delivery services.
+* **Address:** Used exclusively for water delivery services.
 
 ### 1.2 Non-Personal Information
 We may collect non-identifiable information automatically, such as:
@@ -39,9 +39,12 @@ We use your personal information solely to:
 ## 4. Data Security
 We implement industry-standard security measures to protect your personal information, including:
 
-Secure storage and encryption of sensitive data.
-Regular monitoring and updates to our security protocols.
-Limited access to personal information by authorized personnel only.
+* Secure storage and encryption of sensitive data.
+
+* Regular monitoring and updates to our security protocols.
+
+* Limited access to personal information by authorized personnel only.
+
 While we strive to protect your data, no method of transmission or storage is 100% secure. Therefore, we cannot guarantee absolute security.
 
 ## 5. Your Data Rights
@@ -56,9 +59,11 @@ You can request the deletion of your account and associated personal data by con
 ## 6. Compliance with Laws and Standards
 We comply with all applicable local and international standards, including:
 
-Saudi Food and Drug Authority (SFDA) regulations.
-International quality and food safety standards.
-Google Play Developer Policy requirements.
+* Saudi Food and Drug Authority (SFDA) regulations.
+
+* International quality and food safety standards.
+
+* Google Play Developer Policy requirements.
 
 ## 7. Use of Third-Party Services
 Our app does not integrate with third-party services for advertising or analytics. All data processing is conducted in-house for service delivery purposes.
