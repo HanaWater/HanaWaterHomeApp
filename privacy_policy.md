@@ -2,6 +2,7 @@
 ----------------------------
 
 #Introduction
+
 At Hana Water, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our application, "Hana Water," operated by Hana Food Industries Company.
 
 By using our app, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please do not use the app.
