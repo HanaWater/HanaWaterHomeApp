@@ -1,4 +1,4 @@
-#Privacy Policy for Hana Water
+**#Privacy Policy for Hana Water**
 ----------------------------
 
 #Introduction
