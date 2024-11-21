@@ -95,4 +95,5 @@ These Terms and Conditions are governed by and construed in accordance with the 
 If you have any questions or concerns about these Terms and Conditions, please contact us:
 
 **Hana Food Industries Company**
-**Email:** support@hana-water.com
+
+**Email:** complain@hanawater.com
