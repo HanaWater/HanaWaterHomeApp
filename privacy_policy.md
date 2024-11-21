@@ -80,9 +80,9 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
-Hana Food Industries Company
+**HANA Water**
 
-**Email:** support@hana-water.com
+**Email:** info@hanawater.com
 
 
 
