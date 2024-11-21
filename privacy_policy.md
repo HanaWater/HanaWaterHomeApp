@@ -7,7 +7,7 @@ At Hana Water, we value your privacy and are committed to protecting your person
 By using our app, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please do not use the app.
 
 ## 1. Information We Collect
-###1.1 Personal Information
+### 1.1 Personal Information
 We collect the following personal information to provide our services:
 
 Phone Number: Required for login/signup and account management.
@@ -15,10 +15,10 @@ Address: Used exclusively for water delivery services.
 ###1.2 Non-Personal Information
 We may collect non-identifiable information automatically, such as:
 
-*Device type and model.
-*App usage statistics.
-*Crash reports and performance data.
-##2. How We Use Your Information
+* Device type and model.
+* App usage statistics.
+* Crash reports and performance data.
+## 2. How We Use Your Information
 We use your personal information solely to:
 
 Process and deliver your water orders.
