@@ -1,7 +1,7 @@
-**# Privacy Policy for Hana Water**
+# Privacy Policy for Hana Water
 ----------------------------
 
-# Introduction
+## Introduction
 
 At Hana Water, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use our application, "Hana Water," operated by Hana Food Industries Company.
 
