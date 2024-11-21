@@ -1,4 +1,4 @@
-# Terms and Conditions for Hana Water
+# Terms and Conditions
 
 ## Introduction
 
@@ -94,6 +94,6 @@ These Terms and Conditions are governed by and construed in accordance with the 
 
 If you have any questions or concerns about these Terms and Conditions, please contact us:
 
-**Hana Food Industries Company**
+**HANA Water**
 
 **Email:** complain@hanawater.com
