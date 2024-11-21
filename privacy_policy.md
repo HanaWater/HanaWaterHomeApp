@@ -10,8 +10,8 @@ By using our app, you agree to the terms outlined in this Privacy Policy. If you
 ### 1.1 Personal Information
 We collect the following personal information to provide our services:
 
-Phone Number: Required for login/signup and account management.
-Address: Used exclusively for water delivery services.
+** Phone Number: ** Required for login/signup and account management.
+** Address: ** Used exclusively for water delivery services.
 ###1.2 Non-Personal Information
 We may collect non-identifiable information automatically, such as:
 
